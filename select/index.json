@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dhurandhar The Revenge - Aari Aari",
+  "base_artist": "Shashwat Sachdev",
+  "createdAt": "2026-03-22T16:16:25.386421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari Dhurandhar The Revenge",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/01_Dhurandhar_The_Revenge_-_Aari_Aari_Dhurandhar_The_Revenge_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_Jasmine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/02_Dhurandhar_The_Revenge_-_Aari_Aari_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_Jasmine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas and Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/03_Dhurandhar_The_Revenge_-_Aari_Aari_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_Jasmine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/04_Dhurandhar_The_Revenge_-_Aari_Aari_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari (From &quot;Dhurandhar The Revenge&quot;)",
+      "artist": "Irshad Kamil",
+      "has_synced": true,
+      "path": "select/05_Dhurandhar_The_Revenge_-_Aari_Aari_(From_&quot;Dhurandhar_The_Revenge&quot;)_Irshad_Kamil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Release - Topic",
+      "has_synced": true,
+      "path": "select/06_Dhurandhar_The_Revenge_-_Aari_Aari_Release_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Bombay Rockers, IRSHAD KAMIL, Khan Saab",
+      "has_synced": true,
+      "path": "select/07_Dhurandhar_The_Revenge_-_Aari_Aari_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev,_Bombay_Rockers,_IRSHAD_KAMIL,_Khan_Saab.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Song, Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, and Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/08_Dhurandhar_The_Revenge_-_Aari_Aari_Song,_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/09_Dhurandhar_The_Revenge_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_Jasmine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/10_Dhurandhar_The_Revenge_-_Aari_Aari_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_Jasmine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "artist": "Irshad Kamil",
+      "has_synced": true,
+      "path": "select/11_Dhurandhar_The_Revenge_-_Aari_Aari_(From__Dhurandhar_The_Revenge_)_Irshad_Kamil.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Shashwat Sachdev; Bombay Rockers; Irshad Kamil; Khan Saab; Reble; Token; Jasmine Sandlas; Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/12_Dhurandhar_The_Revenge_-_Aari_Aari_Shashwat_Sachdev;_Bombay_Rockers;_Irshad_Kamil;_Khan_Saab;_Reble;_Token;_Jasmine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "artist": "Irshad Kamil, Bombay Rockers, Shashwat Sachdev, Khan Saab",
+      "has_synced": true,
+      "path": "select/13_Dhurandhar_The_Revenge_-_Aari_Aari_(From__Dhurandhar_The_Revenge_)_Irshad_Kamil,_Bombay_Rockers,_Shashwat_Sachdev,_Khan_Saab.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/14_Dhurandhar_The_Revenge_-_Aari_Aari_Shashwat_Sachdev.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/15_Main_Aur_Tu_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jaan Se Guzarte Hain (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Khan Saab,",
+      "has_synced": true,
+      "path": "select/16_Jaan_Se_Guzarte_Hain_(From__Dhurandhar_The_Revenge_)_Shashwat_Sachdev,_Khan_Saab,.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Main Aur Tu (From &quot;Dhurandhar The Revenge&quot;)",
+      "artist": "Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/17_Main_Aur_Tu_(From_&quot;Dhurandhar_The_Revenge&quot;)_Shashwat_Sachdev.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "dhurandhar the revenge aari aari",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "has_synced": true,
+      "path": "select/18_dhurandhar_the_revenge_aari_aari_Shashwat_Sachdev,_Bombay_Rockers,_Irshad_Kamil,_Khan_Saab,_Reble,_Token,_Jasmine.lrc"
+    }
+  ]
+}
